@@ -1,16 +1,30 @@
-Hi there 👋
+💫 About Me:
+🔭 I’m currently working on: Fine-tuning LLMs for specific use cases and building AI-powered web apps.
 
-<!--
-**Daksha1611/Daksha1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on: Innovative AI projects that solve real-world problems.
 
-Here are some ideas to get you started:
+🤝 I’m looking for help with: Optimizing model inference time and deploying models to the cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning: MLOps, Docker, and Generative Adversarial Networks (GANs).
+
+💬 Ask me about: Neural Networks, Feature Engineering, and Model Evaluation metrics.
+
+⚡ Fun fact: My models sometimes overfit, but my enthusiasm never underfits!
+
+🌐 Socials:
+LinkedIn email
+
+💻 Tech Stack:
+C C++ HTML5 Java JavaScript Kotlin Python MySQL MongoDB Canva Keras Matplotlib NumPy Pandas scikit-learn TensorFlow Git GitHub Arduino Docker Power Bi NodeJS Flutter
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
