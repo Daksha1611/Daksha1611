@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **Daksha1611/Daksha1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
