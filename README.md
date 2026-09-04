@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="220" valign="middle" align="center">
-  <img width="200" src="assets/ice-bear-resting.svg" alt="Ice Bear resting his chin on his paws, content and unbothered" />
+  <img width="200" src="assets/ice-bear.png" alt="Ice Bear resting his chin on his paws, content and unbothered" />
 </td>
 <td valign="middle">
 
