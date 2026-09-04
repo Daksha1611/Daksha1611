@@ -1,25 +1,12 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:1B1F27,100:0D1117&text=Daksha%20Mehta&fontColor=E7E2D6&fontSize=46&fontAlignY=40&animation=fadeIn&desc=Agentic%20AI%20%2F%20MLOps&descAlignY=62&descSize=18&descColor=C99A5B" alt="Daksha Mehta" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=8A9BA8&center=true&vCenter=true&width=520&height=45&lines=Agentic+AI+systems%2C+end+to+end.;Multi-agent+orchestration.;FastAPI+backends.+MLOps+that+ships." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-C99A5B?style=flat-square" width="60" height="4" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:1B1F27,100:0D1117&text=Daksha%20Mehta&fontColor=E7E2D6&fontSize=40&fontAlignY=34&animation=fadeIn&desc=Agentic%20AI%20%2F%20MLOps&descAlignY=58&descSize=16&descColor=C99A5B" alt="Daksha Mehta" />
+  <br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=8A9BA8&center=true&vCenter=true&width=520&height=32&lines=Agentic+AI+systems%2C+end+to+end.;Multi-agent+orchestration.;FastAPI+backends.+MLOps+that+ships." alt="Typing SVG" /></a>
 </p>
 
 ## About
 
-<table>
-<tr>
-<td width="220" valign="middle" align="center">
-  <img width="200" src="assets/ice-bear.png" alt="Ice Bear resting his chin on his paws, content and unbothered" />
-</td>
-<td valign="middle">
+<img align="left" width="190" src="assets/ice-bear.png" alt="Ice Bear resting his chin on his paws, content and unbothered" />
 
 B.Tech Information Technology at **ABV-IIITM Gwalior**, class of 2028. I build **agentic AI systems** — the kind where several specialized agents have to agree on an answer — and the **MLOps** around them, because a model that never leaves a notebook hasn't done anything yet.
 
@@ -27,9 +14,7 @@ Most of what I work on sits at the seam between the two: an agent that calls fiv
 
 Outside the code, I'm **Vice Chair of the IEEE Student Branch** at ABV-IIITM Gwalior, where I run logistics for hackathons that pull 1,000+ participants and mentor juniors through their first GenAI projects.
 
-</td>
-</tr>
-</table>
+<br clear="left" />
 
 ---
 
@@ -146,20 +131,11 @@ Resume scoring is deliberately hybrid: a rule-based pass across five dimensions 
 
 ## GitHub Activity
 
-<div align="center">
-
-<table>
-<tr>
-<td valign="top">
-  <img src="https://streak-stats.demolab.com?user=Daksha1611&hide_border=true&background=00000000&stroke=8A9BA8&ring=C99A5B&fire=C99A5B&currStreakLabel=C99A5B&sideLabels=8A9BA8&dates=8A9BA8&currStreakNum=E7E2D6&sideNums=E7E2D6&titleColor=E7E2D6" alt="GitHub streak" width="420" />
-</td>
-<td valign="top">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Daksha1611&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=E7E2D6&text_color=8A9BA8" alt="Top languages" width="360" />
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Daksha1611&hide_border=true&background=00000000&stroke=8A9BA8&ring=C99A5B&fire=C99A5B&currStreakLabel=C99A5B&sideLabels=8A9BA8&dates=8A9BA8&currStreakNum=E7E2D6&sideNums=E7E2D6&titleColor=E7E2D6" alt="GitHub streak" width="430" />
+  &nbsp;
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Daksha1611&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=E7E2D6&text_color=8A9BA8" alt="Top languages" width="340" />
+</p>
 
 ---
 
