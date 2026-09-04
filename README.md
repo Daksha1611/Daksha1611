@@ -14,8 +14,6 @@ Most of what I work on sits at the seam between the two: an agent that calls fiv
 
 Outside the code, I'm **Vice Chair of the IEEE Student Branch** at ABV-IIITM Gwalior, where I run logistics for hackathons that pull 1,000+ participants and mentor juniors through their first GenAI projects.
 
-<br clear="left" />
-
 ---
 
 ## Selected Work
