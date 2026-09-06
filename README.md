@@ -138,7 +138,7 @@ Resume scoring is deliberately hybrid: a rule-based pass across five dimensions 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/daksha-mehta">
+  <a href="https://www.linkedin.com/in/daksha1611">
     <img src="https://img.shields.io/badge/linkedin-14161B?style=for-the-badge&logo=linkedin&logoColor=C7C0AE" alt="LinkedIn" />
   </a>
   &nbsp;
