@@ -60,8 +60,10 @@ Resume scoring is deliberately hybrid: a rule-based pass across five dimensions 
 <summary><strong>Also on the shelf</strong> — hackathon builds and earlier work</summary>
 <br />
 
-- [**Interlock**](https://github.com/Daksha1611/Interlock) — payment-recovery agent designed for safety first. Built for the Razorpay AI Buildathon.
-- [**papersynth**](https://github.com/Daksha1611/papersynth) — synthesizes implementation specs from multiple research papers, with citations intact.
+- [**Themis**](https://github.com/Daksha1611/Themis) — a GitHub App that reviews pull requests, with a reliability layer that blocks changes that make review quality worse.
+- [**Pocket Change**](https://github.com/Daksha1611/Pocket-Change) — bounded, auditable spending authority for AI agents: you hand an agent pocket change, not your wallet.
+- [**Interlock**](https://github.com/Daksha1611/Interlock) — payment-recovery agent where a deterministic policy gate, not the LLM, controls every money action. Built for the Razorpay AI Buildathon.
+- [**papersynth**](https://github.com/Daksha1611/papersynth) — turns several research papers into one citation-traced, contradiction-annotated implementation spec.
 - [**pharos**](https://github.com/Daksha1611/pharos) — disaster resource orchestration, turning multilingual distress signals into something dispatchable.
 - [**In-Depth EDA**](https://github.com/Daksha1611/In-Depth-Exploratory-Data-Analysis-EDA-) — kept around because it's where the statistics habits started.
 
