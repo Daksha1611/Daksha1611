@@ -8,7 +8,7 @@
 
 <img align="left" width="190" src="assets/ice-bear.png" alt="Ice Bear resting his chin on his paws, content and unbothered" />
 
-B.Tech Information Technology at **ABV-IIITM Gwalior**, class of 2028. I build **agentic AI systems** — the kind where several specialized agents have to agree on an answer — and the **MLOps** around them, because a model that never leaves a notebook hasn't done anything yet.
+B.Tech Information Technology at **ABV-IIITM Gwalior**, class of 2029. I build **agentic AI systems** — the kind where several specialized agents have to agree on an answer — and the **MLOps** around them, because a model that never leaves a notebook hasn't done anything yet.
 
 Most of what I work on sits at the seam between the two: an agent that calls five external services and still has to return something trustworthy, a classifier that has to notice when the data underneath it has quietly shifted. The interesting problems are rarely the model. They're the schema, the retry, the drift test that fires at 3am.
 
@@ -60,8 +60,10 @@ Resume scoring is deliberately hybrid: a rule-based pass across five dimensions 
 <summary><strong>Also on the shelf</strong> — hackathon builds and earlier work</summary>
 <br />
 
-- [**Interlock**](https://github.com/Daksha1611/Interlock) — payment-recovery agent designed for safety first. Built for the Razorpay AI Buildathon.
-- [**papersynth**](https://github.com/Daksha1611/papersynth) — synthesizes implementation specs from multiple research papers, with citations intact.
+- [**Themis**](https://github.com/Daksha1611/Themis) — a GitHub App that reviews pull requests, with a reliability layer that blocks changes that make review quality worse.
+- [**Pocket Change**](https://github.com/Daksha1611/Pocket-Change) — bounded, auditable spending authority for AI agents: you hand an agent pocket change, not your wallet.
+- [**Interlock**](https://github.com/Daksha1611/Interlock) — payment-recovery agent where a deterministic policy gate, not the LLM, controls every money action. Built for the Razorpay AI Buildathon.
+- [**papersynth**](https://github.com/Daksha1611/papersynth) — turns several research papers into one citation-traced, contradiction-annotated implementation spec.
 - [**pharos**](https://github.com/Daksha1611/pharos) — disaster resource orchestration, turning multilingual distress signals into something dispatchable.
 - [**In-Depth EDA**](https://github.com/Daksha1611/In-Depth-Exploratory-Data-Analysis-EDA-) — kept around because it's where the statistics habits started.
 
