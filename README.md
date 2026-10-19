@@ -8,7 +8,7 @@
 
 <img align="left" width="190" src="assets/ice-bear.png" alt="Ice Bear resting his chin on his paws, content and unbothered" />
 
-B.Tech Information Technology at **ABV-IIITM Gwalior**, class of 2028. I build **agentic AI systems** — the kind where several specialized agents have to agree on an answer — and the **MLOps** around them, because a model that never leaves a notebook hasn't done anything yet.
+B.Tech Information Technology at **ABV-IIITM Gwalior**, class of 2029. I build **agentic AI systems** — the kind where several specialized agents have to agree on an answer — and the **MLOps** around them, because a model that never leaves a notebook hasn't done anything yet.
 
 Most of what I work on sits at the seam between the two: an agent that calls five external services and still has to return something trustworthy, a classifier that has to notice when the data underneath it has quietly shifted. The interesting problems are rarely the model. They're the schema, the retry, the drift test that fires at 3am.
 
